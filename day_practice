@@ -10,5 +10,5 @@ var name="abc";
 =======
 var surname="sharama";
 >>>>>>> 9cf0d28399e82e5e8cf944e0ac235a526a0b0b7a
-
+var tmp=1;
 
