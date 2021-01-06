@@ -3,3 +3,4 @@ var b=2;
 var c=5;
 a+b;
 a+c;
+alert();
