@@ -2,12 +2,8 @@ var a=1;
 var b=2;
 var c=5
 var d=10;
-<<<<<<< HEAD
 return a-b;
+var name="rohan";
 
-=======
-return a+b;
-var name="sachin";
->>>>>>> 92ae6a47c24e9e0cd0eb950b58cb5515722e09d3
 
 
