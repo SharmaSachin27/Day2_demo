@@ -3,7 +3,6 @@ var b=2;
 var c=5
 var d=10;
 a+b;
-c=a-b;
-d=a+b+c;
+return a-b;
 
 
