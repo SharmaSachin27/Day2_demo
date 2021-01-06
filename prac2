@@ -11,5 +11,7 @@ alert();
 var name="kapil";
 var name="kapil";
 vat tmp=10;
+var demo="after change in server file and commit"
+vat tmp=10;
 var demo_at_local="after change in local file"
 var demo_at_local="after change in local file and push"
